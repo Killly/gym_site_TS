@@ -46,9 +46,9 @@ const Home = ({ setSelectedPage }: Props) => {
                         </div>
                     </div>
                     <p className="mt-8 text-sm">
-                    Build and Deploy a Complete Typescript Fitness Application tutorial. 
-                    For frontend, we will be using React, Typescript, Vite, Tailwind, Hero Icons, Framer Motion, Form Submit, React Anchor Link Smooth Scroll. 
-                    We will also be using Cloudflare Pages for deploying our app.
+                    Unrivaled Gym. Unparalleled Training Fitness Classes. World Class
+                    Studios to get the Body Shapes That you Dream of.. Get Your Dream
+                    Body Now.
                     </p>
                 </motion.div>
                 {/* ACTIONS */}
